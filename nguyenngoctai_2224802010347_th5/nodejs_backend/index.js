@@ -1,7 +1,7 @@
 const app = require("./app");
 const mongoose = require('mongoose');
 
-const uri = 'mongodb+srv://ngocngoctaicm_db_user:kzcDlwGintNyTASc@cluster0.dznphxw.mongodb.net/ToDoDB?retryWrites=true&w=majority';
+const uri = 'Đây là link mongoDB do vấn đề cần bảo mật nên sẽ tạm thời bị xóa';
 
 const port = 5000;
 
