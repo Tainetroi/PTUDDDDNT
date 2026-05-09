@@ -1,0 +1,42 @@
+# Flutter/Dart
+**/build/
+**/android/app/build
+**/android/app/.cxx
+**/android/app/.gradle
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets
+**/ios/Flutter/flutter_export_environment.sh
+**/linux/flutter/ephemeral
+**/macos/Flutter/ephemeral
+**/windows/flutter/ephemeral
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+**/.packages
+**/.flutter
+**/.pub-cache
+**/.dart_tool
+**/*.iml
+**/.idea
+**/.vscode
+**/*.swp
+**/*.swo
+**/*~
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+.env
+
+# General
+.DS_Store
+Thumbs.db
